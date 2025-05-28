@@ -61,5 +61,5 @@
 ### 👨‍💻 Developer at Work
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Dev Image" alt="footer" width=300px  />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Dev Image" alt="footer" width=100% height=400px />
 </p>
