@@ -61,5 +61,5 @@
 ### 👨‍💻 Developer at Work
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/39a88ba1a6c82f4228c7560651b9cc91.png" alt="Dev Image" width="300"/>
+  <img src="[https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/39a88ba1a6c82f4228c7560651b9cc91.png](https://github.com/sar123-bot/sar123-bot/blob/main/lsQS6q92QV.gif)" alt="Dev Image" width="300"/>
 </p>
