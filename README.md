@@ -61,5 +61,5 @@
 ### 👨‍💻 Developer at Work
 
 <p align="center">
-  <img src="https://github.com/sar123-bot/sar123-bot/blob/main/lsQS6q92QV.gif" alt="Dev Image" alt="footer" width=500px height =400px />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Dev Image" alt="footer" width=300px  />
 </p>
