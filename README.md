@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://i.imgur.com/7Jbnjzw.png" alt="Header" width="100%" />
+  <img src="https://github.com/sar123-bot/sar123-bot/blob/main/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" alt="Header" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sarthak Pandey</h1>
